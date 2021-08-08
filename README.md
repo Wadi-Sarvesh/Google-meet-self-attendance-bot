@@ -14,6 +14,8 @@ To run the program just clone the project change/add paths to chrome driver,add 
 
 You can also start your meetings at a specific provided time. To do this associate the batch file with windows task scheduler and provide the time of your meeting.
 
+Here is the tutorial link for this project :https://wadisarvesh33.medium.com/google-meet-attendance-bot-sarvesh-wadi-d8dd02838ee3 
+Refer this tutorial if you have any doubts/errors with the project.
 
 Make sure to install VB-Audio Virtual Cable, it helps playing the recorded sound on the meeting.
 https://vb-audio.com/Cable/
